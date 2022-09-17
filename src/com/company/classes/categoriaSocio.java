@@ -1,6 +1,6 @@
 package com.company.classes;
 
-public enum CategoriaSocio {
+public enum categoriaSocio {
 
     socioEspecial,
     socioComun,
