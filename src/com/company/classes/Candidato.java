@@ -8,7 +8,7 @@ public class Candidato {
     //Inteiros
     private int telefone = 0;
     //Outros tIPOS
-    public categoriaSocio categoria;
+    public CategoriaSocio categoria;
 
 
     //Construtores

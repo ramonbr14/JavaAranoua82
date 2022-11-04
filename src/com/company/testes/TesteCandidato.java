@@ -18,5 +18,6 @@ public class TesteCandidato {
                 "TELEFONE DO CANDITADO",JOptionPane.INFORMATION_MESSAGE)));;
 
     }
+    
 
 }
